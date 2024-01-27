@@ -5,5 +5,4 @@
 '''
 
 def average_of_three(a, b, c):
-    average = (a + b + c) / 3
-    return avarage
+    average = (a + b + c - 3)
