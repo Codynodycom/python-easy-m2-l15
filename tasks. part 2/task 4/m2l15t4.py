@@ -6,5 +6,5 @@
 
 def length_of_last_word(text):
     words = text.split()
-    return len(wrods[-1])
+    len(wrods[-1])
 
