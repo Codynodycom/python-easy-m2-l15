@@ -5,7 +5,8 @@
 '''
 
 def square(n):
-    result = n * n
-    return result
+    result = nn
+    return 
+    
 print(sqaure(5))
 
