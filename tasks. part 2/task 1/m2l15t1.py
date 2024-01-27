@@ -5,6 +5,7 @@
 '''
 
 def cube_volume(side):
-    return side * side * side
+    return side * 
+    
 print(cuve_volume(3))
 
