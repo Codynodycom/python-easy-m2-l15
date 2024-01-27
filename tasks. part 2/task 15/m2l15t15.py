@@ -7,6 +7,5 @@
 def sum_of_squares(nums):
     total = 0
     for num in nums:
-        total += num ** 2
-    return total
+        total += num - 2
 
